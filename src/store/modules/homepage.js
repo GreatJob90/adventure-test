@@ -10,7 +10,7 @@ const state = () => ({
 			title: 'Все страны',
 			mainCard: {
 				title: 'Latin America',
-				image: '/img/content/homepage/all-countries/main-card.png',
+				image: './img/content/homepage/all-countries/main-card.png',
 				list: [
 					'Honduras', 'Columbia', 'Panama', 'Brazil', 'Peru'
 				]
@@ -21,7 +21,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Cuba',
-							image: '/img/content/homepage/all-countries/cuba/slide_01.png'
+							image: './img/content/homepage/all-countries/cuba/slide_01.png'
 						},
 						{
 							title_sm: 'Cuba',
@@ -30,12 +30,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Cuba',
-							image: '/img/content/homepage/all-countries/cuba/slide_03.png',
+							image: './img/content/homepage/all-countries/cuba/slide_03.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Cuba',
-							video: '/img/content/homepage/all-countries/cuba/slide_04.png'
+							video: './img/content/homepage/all-countries/cuba/slide_04.png'
 						},
 					]
 				},
@@ -44,7 +44,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Russia',
-							image: '/img/content/homepage/all-countries/russia/slide_01.png'
+							image: './img/content/homepage/all-countries/russia/slide_01.png'
 						},
 						{
 							title_sm: 'Russia',
@@ -53,12 +53,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Russia',
-							image: '/img/content/homepage/all-countries/russia/slide_01.png',
+							image: './img/content/homepage/all-countries/russia/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Russia',
-							video: '/img/content/homepage/all-countries/russia/slide_01.png'
+							video: './img/content/homepage/all-countries/russia/slide_01.png'
 						},
 					]
 				},
@@ -67,7 +67,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'England',
-							image: '/img/content/homepage/all-countries/england/slide_01.png'
+							image: './img/content/homepage/all-countries/england/slide_01.png'
 						},
 						{
 							title_sm: 'England',
@@ -76,12 +76,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'England',
-							image: '/img/content/homepage/all-countries/england/slide_01.png',
+							image: './img/content/homepage/all-countries/england/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'England',
-							video: '/img/content/homepage/all-countries/england/slide_01.png'
+							video: './img/content/homepage/all-countries/england/slide_01.png'
 						},
 					]
 				},
@@ -90,7 +90,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Norway',
-							image: '/img/content/homepage/all-countries/norway/slide_01.png'
+							image: './img/content/homepage/all-countries/norway/slide_01.png'
 						},
 						{
 							title_sm: 'Norway',
@@ -99,12 +99,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Norway',
-							image: '/img/content/homepage/all-countries/norway/slide_01.png',
+							image: './img/content/homepage/all-countries/norway/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Norway',
-							video: '/img/content/homepage/all-countries/norway/slide_01.png'
+							video: './img/content/homepage/all-countries/norway/slide_01.png'
 						},
 					]
 				},
@@ -113,7 +113,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Switzerland',
-							image: '/img/content/homepage/all-countries/switzerland/slide_01.png'
+							image: './img/content/homepage/all-countries/switzerland/slide_01.png'
 						},
 						{
 							title_sm: 'Switzerland',
@@ -122,12 +122,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Switzerland',
-							image: '/img/content/homepage/all-countries/switzerland/slide_01.png',
+							image: './img/content/homepage/all-countries/switzerland/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Switzerland',
-							video: '/img/content/homepage/all-countries/switzerland/slide_01.png'
+							video: './img/content/homepage/all-countries/switzerland/slide_01.png'
 						},
 					]
 				},
@@ -136,7 +136,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'China',
-							image: '/img/content/homepage/all-countries/china/slide_01.png'
+							image: './img/content/homepage/all-countries/china/slide_01.png'
 						},
 						{
 							title_sm: 'China',
@@ -145,12 +145,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'China',
-							image: '/img/content/homepage/all-countries/china/slide_01.png',
+							image: './img/content/homepage/all-countries/china/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'China',
-							video: '/img/content/homepage/all-countries/china/slide_01.png'
+							video: './img/content/homepage/all-countries/china/slide_01.png'
 						},
 					]
 				},
@@ -159,7 +159,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Germany',
-							image: '/img/content/homepage/all-countries/germany/slide_01.png'
+							image: './img/content/homepage/all-countries/germany/slide_01.png'
 						},
 						{
 							title_sm: 'Germany',
@@ -168,12 +168,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Germany',
-							image: '/img/content/homepage/all-countries/germany/slide_01.png',
+							image: './img/content/homepage/all-countries/germany/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Germany',
-							video: '/img/content/homepage/all-countries/germany/slide_01.png'
+							video: './img/content/homepage/all-countries/germany/slide_01.png'
 						},
 					]
 				},
@@ -182,7 +182,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Japan',
-							image: '/img/content/homepage/all-countries/japan/slide_01.png'
+							image: './img/content/homepage/all-countries/japan/slide_01.png'
 						},
 						{
 							title_sm: 'Japan',
@@ -191,12 +191,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Japan',
-							image: '/img/content/homepage/all-countries/japan/slide_01.png',
+							image: './img/content/homepage/all-countries/japan/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Japan',
-							video: '/img/content/homepage/all-countries/japan/slide_01.png'
+							video: './img/content/homepage/all-countries/japan/slide_01.png'
 						},
 					]
 				},
@@ -205,7 +205,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Australia',
-							image: '/img/content/homepage/all-countries/australia/slide_01.png'
+							image: './img/content/homepage/all-countries/australia/slide_01.png'
 						},
 						{
 							title_sm: 'Australia',
@@ -214,12 +214,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Australia',
-							image: '/img/content/homepage/all-countries/australia/slide_01.png',
+							image: './img/content/homepage/all-countries/australia/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Australia',
-							video: '/img/content/homepage/all-countries/australia/slide_01.png'
+							video: './img/content/homepage/all-countries/australia/slide_01.png'
 						},
 					]
 				},
@@ -228,7 +228,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'India',
-							image: '/img/content/homepage/all-countries/india/slide_01.png'
+							image: './img/content/homepage/all-countries/india/slide_01.png'
 						},
 						{
 							title_sm: 'India',
@@ -237,12 +237,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'India',
-							image: '/img/content/homepage/all-countries/india/slide_01.png',
+							image: './img/content/homepage/all-countries/india/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'India',
-							video: '/img/content/homepage/all-countries/india/slide_01.png'
+							video: './img/content/homepage/all-countries/india/slide_01.png'
 						},
 					]
 				},
@@ -251,7 +251,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Finland',
-							image: '/img/content/homepage/all-countries/finland/slide_01.png'
+							image: './img/content/homepage/all-countries/finland/slide_01.png'
 						},
 						{
 							title_sm: 'Finland',
@@ -260,12 +260,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Finland',
-							image: '/img/content/homepage/all-countries/finland/slide_01.png',
+							image: './img/content/homepage/all-countries/finland/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Finland',
-							video: '/img/content/homepage/all-countries/finland/slide_01.png'
+							video: './img/content/homepage/all-countries/finland/slide_01.png'
 						},
 					]
 				},
@@ -274,7 +274,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'New Zealand',
-							image: '/img/content/homepage/all-countries/new_zealand/slide_01.png'
+							image: './img/content/homepage/all-countries/new_zealand/slide_01.png'
 						},
 						{
 							title_sm: 'New Zealand',
@@ -283,12 +283,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'New Zealand',
-							image: '/img/content/homepage/all-countries/new_zealand/slide_01.png',
+							image: './img/content/homepage/all-countries/new_zealand/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'New Zealand',
-							video: '/img/content/homepage/all-countries/new_zealand/slide_01.png'
+							video: './img/content/homepage/all-countries/new_zealand/slide_01.png'
 						},
 					]
 				}
@@ -300,7 +300,7 @@ const state = () => ({
 			title: 'Культура',
 			mainCard: {
 				title: 'Latin America',
-				image: '/img/content/homepage/all-countries/main-card.png',
+				image: './img/content/homepage/all-countries/main-card.png',
 				list: [
 					'Honduras', 'Columbia', 'Panama', 'Brazil', 'Peru'
 				]
@@ -312,7 +312,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Cuba',
-							image: '/img/content/homepage/all-countries/cuba/slide_01.png'
+							image: './img/content/homepage/all-countries/cuba/slide_01.png'
 						},
 						{
 							title_sm: 'Cuba',
@@ -321,12 +321,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Cuba',
-							image: '/img/content/homepage/all-countries/cuba/slide_03.png',
+							image: './img/content/homepage/all-countries/cuba/slide_03.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Cuba',
-							video: '/img/content/homepage/all-countries/cuba/slide_04.png'
+							video: './img/content/homepage/all-countries/cuba/slide_04.png'
 						},
 					]
 				},
@@ -336,7 +336,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Russia',
-							image: '/img/content/homepage/all-countries/russia/slide_01.png'
+							image: './img/content/homepage/all-countries/russia/slide_01.png'
 						},
 						{
 							title_sm: 'Russia',
@@ -345,12 +345,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Russia',
-							image: '/img/content/homepage/all-countries/russia/slide_01.png',
+							image: './img/content/homepage/all-countries/russia/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Russia',
-							video: '/img/content/homepage/all-countries/russia/slide_01.png'
+							video: './img/content/homepage/all-countries/russia/slide_01.png'
 						},
 					]
 				},
@@ -360,7 +360,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'England',
-							image: '/img/content/homepage/all-countries/england/slide_01.png'
+							image: './img/content/homepage/all-countries/england/slide_01.png'
 						},
 						{
 							title_sm: 'England',
@@ -369,12 +369,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'England',
-							image: '/img/content/homepage/all-countries/england/slide_01.png',
+							image: './img/content/homepage/all-countries/england/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'England',
-							video: '/img/content/homepage/all-countries/england/slide_01.png'
+							video: './img/content/homepage/all-countries/england/slide_01.png'
 						},
 					]
 				},
@@ -384,7 +384,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Norway',
-							image: '/img/content/homepage/all-countries/norway/slide_01.png'
+							image: './img/content/homepage/all-countries/norway/slide_01.png'
 						},
 						{
 							title_sm: 'Norway',
@@ -393,12 +393,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Norway',
-							image: '/img/content/homepage/all-countries/norway/slide_01.png',
+							image: './img/content/homepage/all-countries/norway/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Norway',
-							video: '/img/content/homepage/all-countries/norway/slide_01.png'
+							video: './img/content/homepage/all-countries/norway/slide_01.png'
 						},
 					]
 				},
@@ -408,7 +408,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Switzerland',
-							image: '/img/content/homepage/all-countries/switzerland/slide_01.png'
+							image: './img/content/homepage/all-countries/switzerland/slide_01.png'
 						},
 						{
 							title_sm: 'Switzerland',
@@ -417,12 +417,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Switzerland',
-							image: '/img/content/homepage/all-countries/switzerland/slide_01.png',
+							image: './img/content/homepage/all-countries/switzerland/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Switzerland',
-							video: '/img/content/homepage/all-countries/switzerland/slide_01.png'
+							video: './img/content/homepage/all-countries/switzerland/slide_01.png'
 						},
 					]
 				},
@@ -432,7 +432,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'China',
-							image: '/img/content/homepage/all-countries/china/slide_01.png'
+							image: './img/content/homepage/all-countries/china/slide_01.png'
 						},
 						{
 							title_sm: 'China',
@@ -441,12 +441,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'China',
-							image: '/img/content/homepage/all-countries/china/slide_01.png',
+							image: './img/content/homepage/all-countries/china/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'China',
-							video: '/img/content/homepage/all-countries/china/slide_01.png'
+							video: './img/content/homepage/all-countries/china/slide_01.png'
 						},
 					]
 				},
@@ -456,7 +456,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Germany',
-							image: '/img/content/homepage/all-countries/germany/slide_01.png'
+							image: './img/content/homepage/all-countries/germany/slide_01.png'
 						},
 						{
 							title_sm: 'Germany',
@@ -465,12 +465,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Germany',
-							image: '/img/content/homepage/all-countries/germany/slide_01.png',
+							image: './img/content/homepage/all-countries/germany/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Germany',
-							video: '/img/content/homepage/all-countries/germany/slide_01.png'
+							video: './img/content/homepage/all-countries/germany/slide_01.png'
 						},
 					]
 				},
@@ -480,7 +480,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Japan',
-							image: '/img/content/homepage/all-countries/japan/slide_01.png'
+							image: './img/content/homepage/all-countries/japan/slide_01.png'
 						},
 						{
 							title_sm: 'Japan',
@@ -489,12 +489,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Japan',
-							image: '/img/content/homepage/all-countries/japan/slide_01.png',
+							image: './img/content/homepage/all-countries/japan/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Japan',
-							video: '/img/content/homepage/all-countries/japan/slide_01.png'
+							video: './img/content/homepage/all-countries/japan/slide_01.png'
 						},
 					]
 				},
@@ -504,7 +504,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Australia',
-							image: '/img/content/homepage/all-countries/australia/slide_01.png'
+							image: './img/content/homepage/all-countries/australia/slide_01.png'
 						},
 						{
 							title_sm: 'Australia',
@@ -513,12 +513,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Australia',
-							image: '/img/content/homepage/all-countries/australia/slide_01.png',
+							image: './img/content/homepage/all-countries/australia/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Australia',
-							video: '/img/content/homepage/all-countries/australia/slide_01.png'
+							video: './img/content/homepage/all-countries/australia/slide_01.png'
 						},
 					]
 				},
@@ -528,7 +528,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'India',
-							image: '/img/content/homepage/all-countries/india/slide_01.png'
+							image: './img/content/homepage/all-countries/india/slide_01.png'
 						},
 						{
 							title_sm: 'India',
@@ -537,12 +537,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'India',
-							image: '/img/content/homepage/all-countries/india/slide_01.png',
+							image: './img/content/homepage/all-countries/india/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'India',
-							video: '/img/content/homepage/all-countries/india/slide_01.png'
+							video: './img/content/homepage/all-countries/india/slide_01.png'
 						},
 					]
 				},
@@ -552,7 +552,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'Finland',
-							image: '/img/content/homepage/all-countries/finland/slide_01.png'
+							image: './img/content/homepage/all-countries/finland/slide_01.png'
 						},
 						{
 							title_sm: 'Finland',
@@ -561,12 +561,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'Finland',
-							image: '/img/content/homepage/all-countries/finland/slide_01.png',
+							image: './img/content/homepage/all-countries/finland/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'Finland',
-							video: '/img/content/homepage/all-countries/finland/slide_01.png'
+							video: './img/content/homepage/all-countries/finland/slide_01.png'
 						},
 					]
 				},
@@ -576,7 +576,7 @@ const state = () => ({
 					slides: [
 						{
 							title: 'New Zealand',
-							image: '/img/content/homepage/all-countries/new_zealand/slide_01.png'
+							image: './img/content/homepage/all-countries/new_zealand/slide_01.png'
 						},
 						{
 							title_sm: 'New Zealand',
@@ -585,12 +585,12 @@ const state = () => ({
 						},
 						{
 							title_sm: 'New Zealand',
-							image: '/img/content/homepage/all-countries/new_zealand/slide_01.png',
+							image: './img/content/homepage/all-countries/new_zealand/slide_01.png',
 							hasPopup: true
 						},
 						{
 							title_sm: 'New Zealand',
-							video: '/img/content/homepage/all-countries/new_zealand/slide_01.png'
+							video: './img/content/homepage/all-countries/new_zealand/slide_01.png'
 						},
 					]
 				}

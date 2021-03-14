@@ -3,7 +3,7 @@
 		div.container.header__container
 			div.logo
 				div.logo__image
-					img(src="/img/svg/logo.svg")
+					img(src="img/svg/logo.svg")
 				div.logo__text-wrap
 					div.logo__title adventure
 					div.logo__tagline сделай красиво, чтобы было красиво

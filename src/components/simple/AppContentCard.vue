@@ -4,11 +4,11 @@
 			div.swiper-slide(v-for="slide in state.slides")
 				div.content-card__image(v-if="slide.image")
 					div.content-card__popup-icon(v-if="slide.hasPopup" @click="openImageModal({ path: slide.image, title: slide.title || slide.title_sm })")
-						img(src="/img/svg/magnifier_icon.svg")
+						img(src="img/svg/magnifier_icon.svg")
 					img(:src="slide.image" :alt="slide.title || slide.title_sm")
 				div.content-card__video(v-if="slide.video")
 					div.content-card__video-icon
-						img(src="/img/svg/video-play_icon.svg")
+						img(src="img/svg/video-play_icon.svg")
 					video(:src="''" :poster="slide.video" :alt="slide.title || slide.title_sm")
 				h3.content-card__title(v-if="slide.title") {{ slide.title }}
 				h4.content-card__title-sm(v-if="slide.title_sm") {{ slide.title_sm }}
@@ -16,9 +16,9 @@
 				p.content-card__text(v-if="slide.text") {{ slide.text }}
 		div.content-card__slider-controls
 			div.content-card__slider-prev
-				img(src="/img/svg/arrow.svg")
+				img(src="img/svg/arrow.svg")
 			div.content-card__slider-next
-				img(src="/img/svg/arrow.svg")
+				img(src="img/svg/arrow.svg")
 </template>
 
 <script>

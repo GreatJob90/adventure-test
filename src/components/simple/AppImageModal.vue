@@ -2,7 +2,7 @@
 	div.modal-mask
 		div.modal
 			div.modal__close(@click="closeModal")
-				img(src="/img/svg/close_icon.svg" alt="закрыть")
+				img(src="img/svg/close_icon.svg" alt="закрыть")
 			img(:src="image.path" :alt="image.title")
 </template>
 

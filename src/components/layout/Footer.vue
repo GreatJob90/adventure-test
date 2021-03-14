@@ -6,7 +6,7 @@
 				div.footer__tip-text <span class="special">Одна ошибка и&nbsp;</span>ты ошибся
 
 				div.footer__tip-image
-					img(src="/img/svg/cp-logo.svg")
+					img(src="img/svg/cp-logo.svg")
 </template>
 
 <style lang="stylus">
